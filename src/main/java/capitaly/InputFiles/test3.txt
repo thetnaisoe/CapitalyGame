@@ -1,0 +1,15 @@
+10
+Property
+Property
+LuckyField 200
+Service 700
+Property
+LuckyField 700
+Property
+Service 600
+Property
+Service 1200
+0
+John Greedy
+Michal Careful
+Jordan Tactical
